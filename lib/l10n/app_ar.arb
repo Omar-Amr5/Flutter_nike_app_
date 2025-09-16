@@ -1,0 +1,12 @@
+{
+  "@@locale": "ar",
+  "appTitle": "تطبيق نايكي",
+  "welcome": "مرحباً",
+  "signUp": "تسجيل جديد",
+  "signIn": "تسجيل الدخول",
+  "ourProducts": "منتجاتنا",
+  "hotOffers": "العروض الساخنة",
+  "successSignUp": "تم إنشاء الحساب بنجاح",
+  "successSignIn": "تم تسجيل الدخول بنجاح",
+  "close": "إغلاق"
+}

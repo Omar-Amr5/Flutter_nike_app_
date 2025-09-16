@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "appTitle": "Nike App",
+  "welcome": "Welcome",
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "ourProducts": "Our Products",
+  "hotOffers": "Hot Offers",
+  "successSignUp": "Account created successfully",
+  "successSignIn": "Account sign-in successfully",
+  "close": "Close"
+}
